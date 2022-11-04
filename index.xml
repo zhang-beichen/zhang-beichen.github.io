@@ -5,6 +5,15 @@
     <link>https://bzhang9683.github.io/</link>
     <description>Recent content on Beichen Zhang</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://bzhang9683.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://bzhang9683.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bzhang9683.github.io/projects/</guid>
+      <description>title: &amp;ldquo;Projects&amp;rdquo; layout: &amp;ldquo;archives&amp;rdquo; url: &amp;ldquo;/content/projects&amp;rdquo; summary: &amp;ldquo;archives&amp;rdquo;  </description>
+    </item>
+    
     
   </channel>
 </rss>
