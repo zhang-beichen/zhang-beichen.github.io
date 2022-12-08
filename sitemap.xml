@@ -2,8 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bzhang9683.github.io/beyond_work/</loc>
-    <priority>0</priority>
+    <loc>https://bzhang9683.github.io/thoughts/beyond_work/</loc>
   </url><url>
     <loc>https://bzhang9683.github.io/</loc>
   </url><url>
@@ -14,6 +13,8 @@
     <loc>https://bzhang9683.github.io/projects/</loc>
   </url><url>
     <loc>https://bzhang9683.github.io/tags/</loc>
+  </url><url>
+    <loc>https://bzhang9683.github.io/thoughts/</loc>
   </url><url>
     <loc>https://bzhang9683.github.io/thoughts/</loc>
   </url>
