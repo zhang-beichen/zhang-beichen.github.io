@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bzhang9683.github.io/thoughts/agu2022/</loc>
+    <loc>https://bzhang9683.github.io/archive/agu2022/</loc>
+    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bzhang9683.github.io/archive/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bzhang9683.github.io/</loc>
@@ -20,17 +23,14 @@
     <loc>https://bzhang9683.github.io/tags/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bzhang9683.github.io/thoughts/</loc>
-    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+    <loc>https://bzhang9683.github.io/archive/beyond_work/</loc>
   </url><url>
-    <loc>https://bzhang9683.github.io/thoughts/beyond_work/</loc>
+    <loc>https://bzhang9683.github.io/archives/</loc>
   </url><url>
     <loc>https://bzhang9683.github.io/categories/</loc>
   </url><url>
     <loc>https://bzhang9683.github.io/photograph/</loc>
   </url><url>
     <loc>https://bzhang9683.github.io/projects/</loc>
-  </url><url>
-    <loc>https://bzhang9683.github.io/thoughts/</loc>
   </url>
 </urlset>
