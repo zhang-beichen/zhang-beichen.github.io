@@ -33,5 +33,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Drought</title>
+      <link>https://bzhang9683.github.io/tags/drought/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bzhang9683.github.io/tags/drought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable ML</title>
+      <link>https://bzhang9683.github.io/tags/explainable-ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bzhang9683.github.io/tags/explainable-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XAI</title>
+      <link>https://bzhang9683.github.io/tags/xai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bzhang9683.github.io/tags/xai/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
