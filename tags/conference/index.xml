@@ -5,7 +5,16 @@
     <link>https://bzhang9683.github.io/tags/conference/</link>
     <description>Recent content in Conference on Beichen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bzhang9683.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bzhang9683.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMS 2023 ⛅️</title>
+      <link>https://bzhang9683.github.io/archive/ams2023/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bzhang9683.github.io/archive/ams2023/</guid>
+      <description>The interdisciplinary research on predicting and assessing complex drought impacts using explainable ML will be presented as a talk at the session: 8A.3 Trustworthy AI at 4:15 PM - 4:30 PM on Tuesday, January 10 in the AMS 2023 annual meeting. Welcome to stop by and join the session! Slides of the presentation at AMS 2023. If you are interested in this research and have any further questions or comments, please also feel free to contact me.</description>
+    </item>
+    
     <item>
       <title>AGU 2022 🌎</title>
       <link>https://bzhang9683.github.io/archive/agu2022/</link>
@@ -13,15 +22,6 @@
       
       <guid>https://bzhang9683.github.io/archive/agu2022/</guid>
       <description>The preliminary research on studying the impacts of climate extremes, particularly droughts, on the increased frequency will be presented as a poster at the session: H32N - Causal Inference in Hydrology: Inter-comparisons, Applications, and Future Avenues at 9:00 AM - 12:30 PM on Wednesday, December 14. Welcome to stop by and discuss with me. If you are interested in this research and have any further questions or comments, please also feel free to contact me.</description>
-    </item>
-    
-    <item>
-      <title>AMS 2023 ⛅️</title>
-      <link>https://bzhang9683.github.io/archive/ams2023/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bzhang9683.github.io/archive/ams2023/</guid>
-      <description>The interdisciplinary research on predicting and assessing complex drought impacts using explainable ML will be presented as a talk at the session: 8A.3 Trustworthy AI at 4:15 PM - 4:30 PM on Tuesday, January 10 in the AMS 2023 annual meeting. Welcome to stop by and join the session! Slides of the presentation at AMS 2023. If you are interested in this research and have any further questions or comments, please also feel free to contact me.</description>
     </item>
     
   </channel>

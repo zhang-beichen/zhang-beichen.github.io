@@ -5,20 +5,11 @@
     <link>https://bzhang9683.github.io/tags/</link>
     <description>Recent content in Tags on Beichen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bzhang9683.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Causal Inference</title>
-      <link>https://bzhang9683.github.io/tags/causal-inference/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://bzhang9683.github.io/tags/causal-inference/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bzhang9683.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Climate Impacts</title>
       <link>https://bzhang9683.github.io/tags/climate-impacts/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bzhang9683.github.io/tags/climate-impacts/</guid>
       <description></description>
@@ -27,7 +18,7 @@
     <item>
       <title>Conference</title>
       <link>https://bzhang9683.github.io/tags/conference/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bzhang9683.github.io/tags/conference/</guid>
       <description></description>
@@ -36,7 +27,7 @@
     <item>
       <title>Drought</title>
       <link>https://bzhang9683.github.io/tags/drought/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bzhang9683.github.io/tags/drought/</guid>
       <description></description>
@@ -45,7 +36,7 @@
     <item>
       <title>Explainable ML</title>
       <link>https://bzhang9683.github.io/tags/explainable-ml/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bzhang9683.github.io/tags/explainable-ml/</guid>
       <description></description>
@@ -54,9 +45,18 @@
     <item>
       <title>XAI</title>
       <link>https://bzhang9683.github.io/tags/xai/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bzhang9683.github.io/tags/xai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference</title>
+      <link>https://bzhang9683.github.io/tags/causal-inference/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bzhang9683.github.io/tags/causal-inference/</guid>
       <description></description>
     </item>
     
