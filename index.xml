@@ -24,6 +24,18 @@
       <description>The preliminary research on studying the impacts of climate extremes, particularly droughts, on the increased frequency will be presented as a poster at the session: H32N - Causal Inference in Hydrology: Inter-comparisons, Applications, and Future Avenues at 9:00 AM - 12:30 PM on Wednesday, December 14. Welcome to stop by and discuss with me. If you are interested in this research and have any further questions or comments, please also feel free to contact me.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://zhang-beichen.github.io/archive/dlai_chatgpt_prompt_engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhang-beichen.github.io/archive/dlai_chatgpt_prompt_engineering/</guid>
+      <description>title: &amp;ldquo;Notes of ChatGPT Prompt Engineering for Developers ⛅️&amp;rdquo; author: &amp;ldquo;Beichen Zhang&amp;rdquo; date: &amp;ldquo;2023-01-09&amp;rdquo; tags: [&amp;ldquo;Large Language Models (LLMs)&amp;rdquo;, &amp;ldquo;Natural Language Processing (NLP)&amp;rdquo;, &amp;ldquo;DL&amp;rdquo;] hideMeta: true searchHidden: true ShowBreadCrumbs: false
+For ease of referring and checking in the future, I summarized this outline for the short course ChatGPT Prompt Engineering for Developers at DeepLearning.AI.
+Introduction Introducing the general background of natural language process (NLP) with deep learning (DL).
+Large language models (LLMs) [I think here the term refers to GPT-like LLMs] were categorized into two types.</description>
+    </item>
+    
     
   </channel>
 </rss>
