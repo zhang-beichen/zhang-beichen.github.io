@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Large Language Models (LLMs) on Beichen Zhang</title>
+    <link>https://zhang-beichen.github.io/tags/large-language-models-llms/</link>
+    <description>Recent content in Large Language Models (LLMs) on Beichen Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-beichen.github.io/tags/large-language-models-llms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes of *ChatGPT Prompt Engineering for Developers* ⛅️</title>
+      <link>https://zhang-beichen.github.io/archive/dlai_chatgpt_prompt_engineering/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhang-beichen.github.io/archive/dlai_chatgpt_prompt_engineering/</guid>
+      <description>For ease of referring and checking in the future, I summarized this outline for the short course ChatGPT Prompt Engineering for Developers at DeepLearning.AI.
+Introduction Introducing the general background of natural language process (NLP) with deep learning (DL).
+Large language models (LLMs) [I think here the term refers to GPT-like LLMs] were categorized into two types.
+Base LLM
+Predicts the next word based on the training data Instruction Tuned LLM</description>
+    </item>
+    
+  </channel>
+</rss>
