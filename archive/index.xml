@@ -5,7 +5,17 @@
     <link>https://zhang-beichen.github.io/archive/</link>
     <description>Recent content in Archives on Beichen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-beichen.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-beichen.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AGU 2023 ⛅️</title>
+      <link>https://zhang-beichen.github.io/archive/agu2023/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhang-beichen.github.io/archive/agu2023/</guid>
+      <description>A new year of AGU Fall Meeting is coming. I will serve as a chair.</description>
+    </item>
+    
     <item>
       <title>Notes of ChatGPT Prompt Engineering for Developers</title>
       <link>https://zhang-beichen.github.io/archive/dlai_chatgpt_prompt_engineering/</link>
