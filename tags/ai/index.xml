@@ -6,13 +6,23 @@
     <description>Recent content in AI on Beichen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-beichen.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-beichen.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissertation Defense</title>
+      <link>https://zhang-beichen.github.io/blogs/dissertation/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhang-beichen.github.io/blogs/dissertation/</guid>
+      <description>I am excited to share that I have successfully defended my Ph.D. dissertation, Applications of Artificial Intelligence on Drought Impact Monitoring and Assessment. This work was conducted under the supervision of Dr. Michael Hayes and Dr. Tsegaye Tadesse. My dissertation committee included Dr. Brian Wardlow, Dr. Samal Ashok, and Dr. Xueheng Shi.
+I will be officially conferred with a Ph.D. degree from the University of Nebraska-Lincoln in August. In the meantime, I am thrilled to announce that I have accepted a postdoctoral position at Berkeley Lab, starting in June.</description>
+    </item>
+    
     <item>
       <title>AGU 2023 🌎</title>
-      <link>https://zhang-beichen.github.io/archive/agu2023/</link>
+      <link>https://zhang-beichen.github.io/blogs/agu2023/</link>
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zhang-beichen.github.io/archive/agu2023/</guid>
+      <guid>https://zhang-beichen.github.io/blogs/agu2023/</guid>
       <description>AGU Fall Meeting 2023 is coming. I will serve as a chair of the GeoHealth (GH23): Surviving the Dry Spell: Understanding the Connection Between Drought Health, which will be held from 14:10 to 15:40 on December 12. Here is the abstract of the session.
 Drought is a natural disaster that can have a profound impact on the environment, economy, and human health. Droughts can lead to food and water scarcity, malnutrition, water-borne diseases, and increased environmental hazards, such as smoke, dust, and heat.</description>
     </item>

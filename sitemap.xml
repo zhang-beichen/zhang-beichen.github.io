@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhang-beichen.github.io/archive/agu2023/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zhang-beichen.github.io/tags/ai/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhang-beichen.github.io/archive/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhang-beichen.github.io/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhang-beichen.github.io/blogs/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhang-beichen.github.io/tags/climate-impacts/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhang-beichen.github.io/blogs/dissertation/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhang-beichen.github.io/tags/drought/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhang-beichen.github.io/tags/remote-sensing/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhang-beichen.github.io/tags/</loc>
+    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhang-beichen.github.io/blogs/agu2023/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhang-beichen.github.io/tags/conference/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhang-beichen.github.io/tags/drought/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhang-beichen.github.io/tags/environmental-health/</loc>
@@ -35,9 +44,6 @@
     <loc>https://zhang-beichen.github.io/tags/specialty-crops/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhang-beichen.github.io/tags/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zhang-beichen.github.io/tags/dl/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -47,10 +53,10 @@
     <loc>https://zhang-beichen.github.io/tags/natural-language-processing-nlp/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhang-beichen.github.io/archive/dlai_chatgpt_prompt_engineering/</loc>
+    <loc>https://zhang-beichen.github.io/blogs/dlai_chatgpt_prompt_engineering/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhang-beichen.github.io/archive/ams2023/</loc>
+    <loc>https://zhang-beichen.github.io/blogs/ams2023/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhang-beichen.github.io/tags/explainable-ml/</loc>
@@ -59,13 +65,13 @@
     <loc>https://zhang-beichen.github.io/tags/xai/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhang-beichen.github.io/archive/agu2022/</loc>
+    <loc>https://zhang-beichen.github.io/blogs/agu2022/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zhang-beichen.github.io/tags/causal-inference/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhang-beichen.github.io/archive/</loc>
+    <loc>https://zhang-beichen.github.io/blogs/</loc>
   </url><url>
     <loc>https://zhang-beichen.github.io/categories/</loc>
   </url>

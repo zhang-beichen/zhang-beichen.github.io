@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Remote Sensing on Beichen Zhang</title>
+    <link>https://zhang-beichen.github.io/tags/remote-sensing/</link>
+    <description>Recent content in Remote Sensing on Beichen Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-beichen.github.io/tags/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissertation Defense</title>
+      <link>https://zhang-beichen.github.io/blogs/dissertation/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhang-beichen.github.io/blogs/dissertation/</guid>
+      <description>I am excited to share that I have successfully defended my Ph.D. dissertation, Applications of Artificial Intelligence on Drought Impact Monitoring and Assessment. This work was conducted under the supervision of Dr. Michael Hayes and Dr. Tsegaye Tadesse. My dissertation committee included Dr. Brian Wardlow, Dr. Samal Ashok, and Dr. Xueheng Shi.
+I will be officially conferred with a Ph.D. degree from the University of Nebraska-Lincoln in August. In the meantime, I am thrilled to announce that I have accepted a postdoctoral position at Berkeley Lab, starting in June.</description>
+    </item>
+    
+  </channel>
+</rss>
