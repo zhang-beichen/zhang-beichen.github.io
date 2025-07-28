@@ -13,11 +13,34 @@
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zhang-beichen.github.io/blogs/dlai_chatgpt_prompt_engineering/</guid>
-      <description>For ease of referring and checking in the future, I summarized this outline for the short course ChatGPT Prompt Engineering for Developers at DeepLearning.AI.
-Introduction Introducing the general background of natural language process (NLP) with deep learning (DL).
-Large language models (LLMs) [I think here the term refers to GPT-like LLMs] were categorized into two types.
-Base LLM
-Predicts the next word based on the training data Instruction Tuned LLM</description>
+      <description>&lt;p&gt;For ease of referring and checking in the future, I summarized this outline for the short course &lt;em&gt;ChatGPT Prompt Engineering for Developers&lt;/em&gt; at &lt;a href=&#34;https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/&#34;&gt;DeepLearning.AI&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Introducing the general background of natural language process (NLP) with deep learning (DL).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Large language models (LLMs) [I think here the term refers to GPT-like LLMs] were categorized into two types.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Base LLM&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Predicts the next word based on the training data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instruction Tuned LLM&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Tries to follow instructions (Fine-tuning based on instructions and making good attempts at following those instructions)&lt;/li&gt;
+&lt;li&gt;RLHF: Reinforcement Learning with Human Feedback (&lt;a href=&#34;https://arxiv.org/abs/2203.02155&#34;&gt;arXiv paper&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Helpful, Honest, Harmless [at least we hope so]&lt;/p&gt;</description>
     </item>
     
   </channel>

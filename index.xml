@@ -6,15 +6,24 @@
     <description>Recent content on Beichen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-beichen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://zhang-beichen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Editor</title>
+      <link>https://zhang-beichen.github.io/editor/</link>
+      <pubDate>Sat, 29 Mar 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://zhang-beichen.github.io/editor/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dissertation Defense</title>
       <link>https://zhang-beichen.github.io/blogs/dissertation/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://zhang-beichen.github.io/blogs/dissertation/</guid>
-      <description>I am excited to share that I have successfully defended my Ph.D. dissertation, Applications of Artificial Intelligence on Drought Impact Monitoring and Assessment. This work was conducted under the supervision of Dr. Michael Hayes and Dr. Tsegaye Tadesse. My dissertation committee included Dr. Brian Wardlow, Dr. Samal Ashok, and Dr. Xueheng Shi.
-I will be officially conferred with a Ph.D. degree from the University of Nebraska-Lincoln in August. In the meantime, I am thrilled to announce that I have accepted a postdoctoral position at Berkeley Lab, starting in June.</description>
+      <description>&lt;p&gt;I am excited to share that I have successfully defended my Ph.D. dissertation, &lt;em&gt;Applications of Artificial Intelligence on Drought Impact Monitoring and Assessment&lt;/em&gt;. This work was conducted under the supervision of &lt;a href=&#34;https://www.researchgate.net/profile/Michael-Hayes-23&#34;&gt;Dr. Michael Hayes&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=-4zVdOwAAAAJ&#34;&gt;Dr. Tsegaye Tadesse&lt;/a&gt;. My dissertation committee included &lt;a href=&#34;https://scholar.google.com/citations?user=DTVXmQEAAAAJ&amp;amp;hl=en&#34;&gt;Dr. Brian Wardlow&lt;/a&gt;, &lt;a href=&#34;http://cse.unl.edu/~samal/&#34;&gt;Dr. Samal Ashok&lt;/a&gt;, and &lt;a href=&#34;https://scholar.google.com/citations?user=xNrYLTQAAAAJ&amp;amp;hl=en&#34;&gt;Dr. Xueheng Shi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I will be officially conferred with a Ph.D. degree from the University of Nebraska-Lincoln in August. In the meantime, I am thrilled to announce that I have accepted a postdoctoral position at Berkeley Lab, starting in June. My research will focus on decarbonization pathways and their societal and environmental impacts. For those interested in collaboration, please feel free to &lt;a href=&#34;mailto:bzhang5@lbl.edu&#34;&gt;email me&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -23,8 +32,9 @@ I will be officially conferred with a Ph.D. degree from the University of Nebras
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zhang-beichen.github.io/blogs/agu2023/</guid>
-      <description>AGU Fall Meeting 2023 is coming. I will serve as a chair of the GeoHealth (GH23): Surviving the Dry Spell: Understanding the Connection Between Drought Health, which will be held from 14:10 to 15:40 on December 12. Here is the abstract of the session.
-Drought is a natural disaster that can have a profound impact on the environment, economy, and human health. Droughts can lead to food and water scarcity, malnutrition, water-borne diseases, and increased environmental hazards, such as smoke, dust, and heat.</description>
+      <description>&lt;p&gt;AGU Fall Meeting 2023 is coming. I will serve as a chair of the &lt;a href=&#34;https://eppro01.ativ.me/web/page.php?page=Session&amp;amp;project=AGU23&amp;amp;id=s203530-159926&#34;&gt;GeoHealth (GH23): Surviving the Dry Spell: Understanding the Connection Between Drought Health&lt;/a&gt;, which will be held from 14:10 to 15:40 on December 12. Here is the abstract of the session.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Drought is a natural disaster that can have a profound impact on the  environment, economy, and human health. Droughts can lead to food and  water scarcity, malnutrition, water-borne diseases, and increased  environmental hazards, such as smoke, dust, and heat. Moreover, droughts can exacerbate existing health conditions such as respiratory diseases, infectious diseases, and mental health problems. As droughts are  becoming more frequent and severe due to climate change, it is important to understand the relationships with health for improved public health  mitigation strategies. This session will bring together researchers,  public health officials, and policymakers to share their latest research findings and insights on the relationship between drought and human  health. The session will cover topics such as the direct and indirect  health impacts of drought, the mechanisms linking drought and health  outcomes, and effective strategies for reducing the negative effects of  drought on human health.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,11 +43,34 @@ Drought is a natural disaster that can have a profound impact on the environment
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zhang-beichen.github.io/blogs/dlai_chatgpt_prompt_engineering/</guid>
-      <description>For ease of referring and checking in the future, I summarized this outline for the short course ChatGPT Prompt Engineering for Developers at DeepLearning.AI.
-Introduction Introducing the general background of natural language process (NLP) with deep learning (DL).
-Large language models (LLMs) [I think here the term refers to GPT-like LLMs] were categorized into two types.
-Base LLM
-Predicts the next word based on the training data Instruction Tuned LLM</description>
+      <description>&lt;p&gt;For ease of referring and checking in the future, I summarized this outline for the short course &lt;em&gt;ChatGPT Prompt Engineering for Developers&lt;/em&gt; at &lt;a href=&#34;https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/&#34;&gt;DeepLearning.AI&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Introducing the general background of natural language process (NLP) with deep learning (DL).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Large language models (LLMs) [I think here the term refers to GPT-like LLMs] were categorized into two types.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Base LLM&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Predicts the next word based on the training data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instruction Tuned LLM&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Tries to follow instructions (Fine-tuning based on instructions and making good attempts at following those instructions)&lt;/li&gt;
+&lt;li&gt;RLHF: Reinforcement Learning with Human Feedback (&lt;a href=&#34;https://arxiv.org/abs/2203.02155&#34;&gt;arXiv paper&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Helpful, Honest, Harmless [at least we hope so]&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,7 +79,7 @@ Predicts the next word based on the training data Instruction Tuned LLM</descrip
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zhang-beichen.github.io/blogs/ams2023/</guid>
-      <description>The interdisciplinary research on predicting and assessing complex drought impacts using explainable ML will be presented as a talk at the session: 8A.3 Trustworthy AI at 4:15 PM - 4:30 PM on Tuesday, January 10 in the AMS 2023 annual meeting. Welcome to stop by and join the session! Slides of the presentation at AMS 2023. If you are interested in this research and have any further questions or comments, please also feel free to contact me.</description>
+      <description>&lt;p&gt;The interdisciplinary research on predicting and assessing complex drought impacts using explainable ML will be presented as a talk at the session: &lt;em&gt;8A.3 Trustworthy AI&lt;/em&gt; at &lt;strong&gt;4:15 PM - 4:30 PM on Tuesday, January 10&lt;/strong&gt; in the AMS 2023 annual meeting. Welcome to stop by and join the session! &lt;a href=&#34;https://github.com/zhang-beichen/zhang-beichen.github.io/blob/main/blogs/figs/AMS2023_Presentation.pdf?raw=true&#34;&gt;Slides of the presentation at AMS 2023&lt;/a&gt;. If you are interested in this research and have any further questions or comments, please also feel free to contact &lt;a href=&#34;mailto:beichen@huskers.unl.edu&#34;&gt;me&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,7 +88,7 @@ Predicts the next word based on the training data Instruction Tuned LLM</descrip
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://zhang-beichen.github.io/blogs/agu2022/</guid>
-      <description>The preliminary research on studying the impacts of climate extremes, particularly droughts, on the increased frequency will be presented as a poster at the session: H32N - Causal Inference in Hydrology: Inter-comparisons, Applications, and Future Avenues at 9:00 AM - 12:30 PM on Wednesday, December 14. Welcome to stop by and discuss with me. If you are interested in this research and have any further questions or comments, please also feel free to contact me.</description>
+      <description>&lt;p&gt;The preliminary research on studying the impacts of climate extremes, particularly droughts, on the increased frequency will be presented as a poster at the session: &lt;em&gt;H32N - Causal Inference in Hydrology: Inter-comparisons, Applications, and Future Avenues&lt;/em&gt; at &lt;strong&gt;9:00 AM - 12:30 PM on Wednesday, December 14&lt;/strong&gt;. Welcome to stop by and discuss with me. If you are interested in this research and have any further questions or comments, please also feel free to contact &lt;a href=&#34;mailto:beichen@huskers.unl.edu&#34;&gt;me&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     
