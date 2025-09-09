@@ -25,13 +25,13 @@ mainSections = ["posts"]   # adapt to your content folders
     weight = 1
 
   [[menu.main]]
-    name = "Blog"
-    url  = "/posts/"
+    name = "Research"
+    url  = "/research/"
     weight = 2
 
   [[menu.main]]
-    name = "Research"
-    url  = "/research/"
+    name = "Blog"
+    url  = "/posts/"
     weight = 3
 
   [[menu.main]]
