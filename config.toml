@@ -3,7 +3,7 @@ baseURL = "https://github.com/zhang-beichen/zhang-beichen.github.io"
 # The theme will be loaded via the module import below
 paginate = 10
 enableRobotsTXT = true
-mainSections = ["blog", "posts"]   # adapt to your content folders
+mainSections = ["posts"]   # adapt to your content folders
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]   # JSON later used by search (optional)
@@ -20,21 +20,29 @@ mainSections = ["blog", "posts"]   # adapt to your content folders
 
 [menu]
   [[menu.main]]
-    name = "Blog"
-    url = "/"
+    name = "About"
+    url  = "/about/"
     weight = 1
+
   [[menu.main]]
-    name = "Publications"
-    url = "/publications/"
+    name = "Blog"
+    url  = "/posts/"
     weight = 2
+
   [[menu.main]]
-    name = "CV"
-    url = "/cv/"
+    name = "Research"
+    url  = "/research/"
     weight = 3
+
   [[menu.main]]
     name = "Gallery"
-    url = "/gallery/"
+    url  = "/gallery/"
     weight = 4
+
+  [[menu.main]]
+    name = "Contact Me"
+    url  = "/contact_me/"
+    weight = 5
 
 [params]
   description = "Postdoc • Climate & Bioengineering"
