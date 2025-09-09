@@ -45,6 +45,11 @@ mainSections = ["posts"]   # adapt to your content folders
     weight = 5
 
 [params]
-  description = "Postdoc • Climate & Bioengineering"
+  description = "Postdoc • Climate & AI"
   # Set site-wide math to true if most pages need it; otherwise enable per-page
   math = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # don't escape html - render it directly
