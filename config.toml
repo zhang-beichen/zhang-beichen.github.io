@@ -35,8 +35,8 @@ mainSections = ["posts"]   # adapt to your content folders
     weight = 3
 
   [[menu.main]]
-    name = "Gallery"
-    url  = "/gallery/"
+    name = "Playground"
+    url  = "/playground/"
     weight = 4
 
   [[menu.main]]
