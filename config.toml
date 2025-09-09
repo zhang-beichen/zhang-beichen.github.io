@@ -1,5 +1,5 @@
 title = "Beichen Zhang"
-baseURL = "https://github.com/zhang-beichen/zhang-beichen.github.io"
+baseURL = "https://zhang-beichen.github.io/"
 # The theme will be loaded via the module import below
 paginate = 10
 enableRobotsTXT = true
