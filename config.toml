@@ -1,0 +1,42 @@
+title = "Beichen Zhang"
+baseURL = "https://github.com/zhang-beichen/zhang-beichen.github.io"
+# The theme will be loaded via the module import below
+paginate = 10
+enableRobotsTXT = true
+mainSections = ["blog", "posts"]   # adapt to your content folders
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]   # JSON later used by search (optional)
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[module]
+  [[module.imports]]
+    path = "github.com/janraasch/hugo-bearblog"   # Bear Blog theme
+    # Pin a specific tag or commit for stability once you pick one:
+    # version = "v<tag>"  # e.g., v1.0.0 (replace with a real tag when chosen)
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 3
+  [[menu.main]]
+    name = "Gallery"
+    url = "/gallery/"
+    weight = 4
+
+[params]
+  description = "Postdoc • Climate & Bioengineering"
+  # Set site-wide math to true if most pages need it; otherwise enable per-page
+  math = false
