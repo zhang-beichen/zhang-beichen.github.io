@@ -1,19 +1,16 @@
 name: Build and Deploy Hugo (Modules)
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:
-
+    branches:
+      - main
+  workflow_dispatch: {}
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      # uncomment if your modules proxy is blocked:
-      # HUGO_MODULE_PROXY: direct
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0      # modules are fetched by Hugo; no submodules needed
+          fetch-depth: 0
       - name: Setup Hugo (extended)
         uses: peaceiris/actions-hugo@v2
         with:
