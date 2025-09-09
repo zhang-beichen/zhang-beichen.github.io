@@ -1,8 +1,8 @@
----
-title: "Home"
++++
+title = "Home"
 # Optional: set to true if most pages need math
 # math: true
----
++++
 
 <p align="center">
 <img src="/photos/Zhang-Beichen-portrait.jpg" alt="Beichen Zhang" style="width:150px; border-radius:50%; margin:1em 1em 1em 1em;">

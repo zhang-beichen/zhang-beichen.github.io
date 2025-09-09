@@ -1,7 +1,8 @@
----
-title: "About"
-url: "/about/"
----
++++
+title = "About"
+url = "/about/"
++++
+### What I am doing
 
 - **Postdoctoral Researcher**, Lawrence Berkeley National Laboratory (June 2024 – present)  
 - **PhD in Natural Resource Sciences (Climate Assessment and Impacts)**, with a minor in Statistics, University of Nebraska–Lincoln  
