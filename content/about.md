@@ -19,7 +19,7 @@ Through academic training and professional experience, my expertise spans:
 - **Data-driven modeling**  
   statistics, machine learning, deep learning, agent-based modeling, life cycle assessment  
 
-- **Geospatial technologies**  
+- **Geospatial technologies**
   remote sensing, geographic information systems (GIS)  
 
 - **Scientific computing**  
@@ -34,8 +34,8 @@ Through academic training and professional experience, my expertise spans:
 
 ## CV (PDF)
 
-Download my CV: [Beichen_Zhang_CV.pdf](/files/Academic_CV_BZ.pdf)
+Download my CV: [Beichen_Zhang_CV.pdf](/docs/Academic_CV_BZ.pdf)
 
-<object data="/files/Academic_CV_BZ.pdf" type="application/pdf" width="100%" height="800">
+<object data="/docs/Academic_CV_BZ.pdf" type="application/pdf" width="100%" height="800">
   <p>Your browser can’t display PDFs inline. You can download my CV through the link above.</p>
 </object>
