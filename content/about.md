@@ -3,10 +3,6 @@ title: "About"
 url: "/about/"
 ---
 
-<p align="left">
-<img src="/photos/Zhang-Beichen-portrait.jpg" alt="Beichen Zhang" style="width:100px; border-radius:50%; margin:1em 1em 1em 1em;">
-</p>
-
 - **Postdoctoral Researcher**, Lawrence Berkeley National Laboratory (June 2024 – present)  
 - **PhD in Natural Resource Sciences (Climate Assessment and Impacts)**, with a minor in Statistics, University of Nebraska–Lincoln  
   - Dissertation: [Applications of Artificial Intelligence on Drought Impact Monitoring and Assessment](https://digitalcommons.unl.edu/dissertations/AAI31301976/)
