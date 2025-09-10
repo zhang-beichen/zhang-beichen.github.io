@@ -65,12 +65,12 @@ header h1 a:hover {
 /* ===== Menu links ===== */
 header nav a {
   color: #000 !important;
-  text-decoration: none !important;
+  text-decoration: underline !important;
   font-size: 1.125rem;
   font-weight: 500;
 }
 
 header nav a:hover {
   color: #111 !important;      /* subtle darker */
-  text-decoration: underline !important;
+  text-decoration: none !important;
 }
