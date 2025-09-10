@@ -14,7 +14,7 @@ header h1 a {
 }
 
 header h1 a::after {
-  content: "\U0001F30E \U0001F326 \U0001F6F0 \U0001F4CA \U0001F916";
+  content: "🌎 🌦 🛰 📊 🤖";
   display: block;        /* new line */
   font-size: 1.5rem;
   margin-top: 0.25rem;
@@ -29,8 +29,8 @@ header h1 a:hover {
 /* --- Logo / Photo --- */
 header h1 img {
   border-radius: 50%;       /* round avatar */
-  height: 32px;             /* adjust size to match text height */
-  width: 32px;
+  height: 40px;             /* adjust size to match text height */
+  width: 40px;
   object-fit: cover;        /* crop nicely */
 }
 
@@ -46,3 +46,29 @@ header nav a:hover {
   color: #00478a;              /* darker grey on hover */
   text-decoration: none !important;    /* no underline */
 }
+
+/* reset default spacing */
+header h1 { margin: 0; }
+
+/* make the clickable title a flex row: [logo] [title text] */
+header h1 a {
+  display: inline-flex;      /* was inline */
+  align-items: center;       /* vertical center */
+  gap: 0.5rem;               /* space between logo and text */
+  line-height: 1.1;          /* tighter helps centering */
+  text-decoration: none;
+  color: #555 !important;
+}
+
+/* logo sizing = perfect circle, no baseline quirks */
+header h1 a img,
+.site-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;            /* avoids inline baseline offset */
+  flex: 0 0 40px;            /* don’t let flex stretch it */
+}
+
+header h1 a { align-items: center; }  /* already in snippet above */
