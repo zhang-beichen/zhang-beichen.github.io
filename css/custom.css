@@ -2,14 +2,14 @@
 header h1 {
   display: flex;            /* put logo + text side by side */
   align-items: center;      /* vertical centering */
-  gap: 0.5rem;              /* space between logo and text */
+  gap: 0.2rem;              /* space between logo and text */
   margin: 0;                /* remove extra spacing */
 }
 
 header h1 a {
   color: #000 !important;   /* black */
   text-decoration: none !important;    /* no underline */
-  font-size: 2.25rem;        /* adjust size if needed */
+  font-size: 2rem;        /* adjust size if needed */
   font-weight: 900;
 }
 
@@ -21,8 +21,8 @@ header h1 a:hover {
 /* --- Logo / Photo --- */
 header h1 img {
   border-radius: 50%;       /* round avatar */
-  height: 36px;             /* adjust size to match text height */
-  width: 36px;
+  height: 32px;             /* adjust size to match text height */
+  width: 32px;
   object-fit: cover;        /* crop nicely */
 }
 
