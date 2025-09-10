@@ -1,74 +1,53 @@
-/* --- Site Title --- */
+/* ===== Header layout ===== */
 header h1 {
-  display: flex;            /* put logo + text side by side */
-  align-items: center;      /* vertical centering */
-  gap: 0.2rem;              /* space between logo and text */
-  margin: 0;                /* remove extra spacing */
+  margin: 0;
 }
 
+/* Title link (logo + title text in one row) */
 header h1 a {
-  color: #000 !important;   /* black */
-  text-decoration: none !important;    /* no underline */
-  font-size: 2rem;        /* adjust size if needed */
+  display: inline-flex;        /* side by side */
+  align-items: center;         /* vertical center */
+  gap: 0.5rem;                 /* space between logo and text */
+  line-height: 1.1;
+  color: #000 !important;
+  text-decoration: none !important;
+  font-size: 2rem;
   font-weight: 900;
 }
 
-header h1 a::after {
-  content: "🌎 🌦 🛰 📊 🤖";
-  display: block;        /* new line */
-  font-size: 1.5rem;
-  margin-top: 0.25rem;
-  color: #555;
-}
-
 header h1 a:hover {
-  color: #000;
+  color: #000;                 /* no hover color change */
   text-decoration: none !important;
 }
 
-/* --- Logo / Photo --- */
-header h1 img {
-  border-radius: 50%;       /* round avatar */
-  height: 40px;             /* adjust size to match text height */
+/* Logo / portrait */
+.site-logo {
   width: 40px;
-  object-fit: cover;        /* crop nicely */
+  height: 40px;
+  border-radius: 50%;          /* circle */
+  object-fit: cover;           /* crop nicely */
+  display: block;              /* avoid baseline quirks */
+  flex: 0 0 40px;              /* don’t stretch */
 }
 
-/* --- Menu Links --- */
+/* Subtitle row */
+.site-subtitle {
+  display: block;              /* new line below title */
+  font-size: 1.5rem;
+  margin-top: 0.25rem;
+  margin-left: 48px;           /* indent so it aligns with text, not logo */
+  color: #555;
+}
+
+/* ===== Menu links ===== */
 header nav a {
-  color: #000 !important;   /* medium grey */
-  text-decoration: underline !important;
+  color: #000 !important;
+  text-decoration: none !important;
   font-size: 1.125rem;
   font-weight: 500;
 }
 
 header nav a:hover {
-  color: #00478a;              /* darker grey on hover */
-  text-decoration: none !important;    /* no underline */
+  color: #111 !important;      /* subtle darker */
+  text-decoration: none !important;
 }
-
-/* reset default spacing */
-header h1 { margin: 0; }
-
-/* make the clickable title a flex row: [logo] [title text] */
-header h1 a {
-  display: inline-flex;      /* was inline */
-  align-items: center;       /* vertical center */
-  gap: 0.5rem;               /* space between logo and text */
-  line-height: 1.1;          /* tighter helps centering */
-  text-decoration: none;
-  color: #555 !important;
-}
-
-/* logo sizing = perfect circle, no baseline quirks */
-header h1 a img,
-.site-logo {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;            /* avoids inline baseline offset */
-  flex: 0 0 40px;            /* don’t let flex stretch it */
-}
-
-header h1 a { align-items: center; }  /* already in snippet above */
