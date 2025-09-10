@@ -2,5 +2,5 @@
 {{ $opts := dict "transpiler" "dartsass" "targetPath" "css/custom.css" "enableSourceMap" (not hugo.IsProduction) }}
 {{ with resources.Get "css/custom.scss" }}
   {{ $style := . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+  <link rel="stylesheet" href="/css/custom.css">
 {{ end }}
