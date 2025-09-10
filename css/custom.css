@@ -9,8 +9,8 @@ header h1 {
 header h1 a {
   color: #000 !important;   /* black */
   text-decoration: none !important;    /* no underline */
-  font-size: 2.5rem;        /* adjust size if needed */
-  font-weight: 700;
+  font-size: 2rem;        /* adjust size if needed */
+  font-weight: 900;
 }
 
 header h1 a:hover {
@@ -28,13 +28,13 @@ header h1 img {
 
 /* --- Menu Links --- */
 header nav a {
-  color: #00478a !important;   /* medium grey */
+  color: #000 !important;   /* medium grey */
   text-decoration: none !important;
-  margin-left: 1rem;        /* spacing between menu items */
-  font-weight: 500;
+  font-size: 1.5rem;
+  font-weight: 600;
 }
 
 header nav a:hover {
-  color: #000;              /* darker grey on hover */
+  color: #00478a;              /* darker grey on hover */
   text-decoration: none !important;    /* no underline */
 }
