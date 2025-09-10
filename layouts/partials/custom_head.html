@@ -1,6 +1,5 @@
-{{/* Bear loads this partial in <head> if it exists */}}
-{{ $opts := dict "transpiler" "dartsass" "targetPath" "css/custom.css" "enableSourceMap" (not hugo.IsProduction) }}
-{{ with resources.Get "css/custom.scss" }}
-  {{ $style := . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-  <link rel="stylesheet" href="/css/custom.css">
-{{ end }}
+<!-- layouts/partials/custom_head.html -->
+<!-- This partial is loaded by Bear Blog inside <head> -->
+<!-- It attaches your custom CSS overrides -->
+
+<link rel="stylesheet" href="/css/custom.css?v=1" type="text/css">
