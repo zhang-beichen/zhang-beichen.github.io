@@ -4,9 +4,13 @@ url = "/about/"
 +++
 ### What I am doing
 
-- **Postdoctoral Researcher**, Lawrence Berkeley National Laboratory (June 2024 – present)  
-- **PhD in Natural Resource Sciences (Climate Assessment and Impacts)**, with a minor in Statistics, University of Nebraska–Lincoln  
-  - Dissertation: [Applications of Artificial Intelligence on Drought Impact Monitoring and Assessment](https://digitalcommons.unl.edu/dissertations/AAI31301976/)
+- **Postdoctoral Researcher**
+  Earth and Environmental Sciences Area
+  Lawrence Berkeley National Laboratory  
+- **PhD in Natural Resource Sciences (Climate Assessment and Impacts)**
+  Minor in Statistics
+  University of Nebraska–Lincoln  
+  Dissertation: [Applications of Artificial Intelligence on Drought Impact Monitoring and Assessment](https://digitalcommons.unl.edu/dissertations/AAI31301976/)
 
 ### Expertise
 
