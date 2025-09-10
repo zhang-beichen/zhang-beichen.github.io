@@ -1,7 +1,7 @@
 /* ===== Header layout ===== */
-header h1 {
-  margin: 0;
-}
+/* Keep header/main/footer aligned (optional) */
+:root { --content-width: 720px; }
+header, main, footer { max-width: var(--content-width); margin: 0 auto; padding: 0 1rem; }
 
 /* Title link (logo + title text in one row) */
 header h1 a {
@@ -15,6 +15,16 @@ header h1 a {
   font-weight: 900;
 }
 
+/* Whole brand (logo + text) is one link */
+.site-header { margin: 0; }
+.site-brand {
+  display: inline-flex;             /* logo left, text right */
+  align-items: center;              /* vertically center logo to text block */
+  gap: 1rem;
+  text-decoration: none !important;
+  color: #000 !important;
+}
+
 header h1 a:hover {
   color: #000;                 /* no hover color change */
   text-decoration: none !important;
@@ -22,12 +32,26 @@ header h1 a:hover {
 
 /* Logo / portrait */
 .site-logo {
-  width: 40px;
-  height: 40px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;          /* circle */
   object-fit: cover;           /* crop nicely */
   display: block;              /* avoid baseline quirks */
-  flex: 0 0 40px;              /* don’t stretch */
+  flex: 0 0 48px;              /* don’t stretch */
+}
+
+/* Title + subtitle stacked */
+.site-title-block {
+  display: flex;
+  flex-direction: column;       /* stack title + subtitle */
+  justify-content: center;      /* center them vertically */
+}
+
+/* Title line */
+.site-title {
+  font-size: 2rem;
+  font-weight: 900;
+  color: #000;
 }
 
 /* Subtitle row */
@@ -49,5 +73,5 @@ header nav a {
 
 header nav a:hover {
   color: #111 !important;      /* subtle darker */
-  text-decoration: none !important;
+  text-decoration: underline !important;
 }
