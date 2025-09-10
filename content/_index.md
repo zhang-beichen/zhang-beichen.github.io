@@ -4,9 +4,9 @@ title = "Home"
 # math: true
 +++
 
-<p align="center">
+<!-- <p align="center">
 <img src="/photos/Zhang-Beichen-portrait.jpg" alt="Beichen Zhang" style="width:150px; border-radius:50%; margin:1em 1em 1em 1em;">
-</p>
+</p> -->
 
 Hi, I’m **张(Zhang)北辰(Beichen)**. Welcome to my website!
 

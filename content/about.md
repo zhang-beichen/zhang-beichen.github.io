@@ -10,8 +10,6 @@ url = "/about/"
 
 ### Expertise
 
-Through academic training and professional experience, my expertise spans:
-
 - **Earth science**  
   Drought, Wildfire, Climatology, Hydrology
 - **Data-driven modeling**  

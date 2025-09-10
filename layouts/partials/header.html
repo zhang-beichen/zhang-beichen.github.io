@@ -1,0 +1,14 @@
+<header>
+  <h1>
+    <a href="{{ .Site.BaseURL }}">
+      <img src="/photos/cartoonized_portrait.ico" alt="{{ .Site.Title }}" style="height:40px; vertical-align:middle; margin-right:8px;">
+      {{ .Site.Title }}
+    </a>
+  </h1>
+
+  <nav>
+    {{ range site.Menus.main }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+</header>
