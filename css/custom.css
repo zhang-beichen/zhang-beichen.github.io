@@ -13,6 +13,14 @@ header h1 a {
   font-weight: 900;
 }
 
+header h1 a::after {
+  content: "\U0001F30E \U0001F326 \U0001F6F0 \U0001F4CA \U0001F916";
+  display: block;        /* new line */
+  font-size: 1.5rem;
+  margin-top: 0.25rem;
+  color: #555;
+}
+
 header h1 a:hover {
   color: #000;
   text-decoration: none !important;
