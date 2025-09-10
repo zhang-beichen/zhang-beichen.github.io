@@ -5,22 +5,35 @@ url = "/about/"
 ### What I am doing
 
 - **Postdoctoral Researcher**
+  
   Earth and Environmental Sciences Area
-  Lawrence Berkeley National Laboratory  
+  
+  Lawrence Berkeley National Laboratory
+  
 - **PhD in Natural Resource Sciences (Climate Assessment and Impacts)**
+  
   Minor in Statistics
-  University of Nebraska–Lincoln  
+  
+  University of Nebraska–Lincoln
+  
   Dissertation: [Applications of Artificial Intelligence on Drought Impact Monitoring and Assessment](https://digitalcommons.unl.edu/dissertations/AAI31301976/)
 
 ### Expertise
 
-- **Earth science**  
+- **Earth science**
+  
   Drought, Wildfire, Climatology, Hydrology
-- **Data-driven modeling**  
-  Statistics, Machine Learning, Deep Learning, Agent-based Modeling, Life Cycle Assessment  
+  
+- **Data-driven modeling**
+  
+  Statistics, Machine Learning, Deep Learning, Agent-based Modeling, Life Cycle Assessment 
+  
 - **Geospatial technologies**
-  Remote sensing, Geographic Information Systems (GIS)  
+  
+  Remote sensing, Geographic Information Systems (GIS)
+  
 - **Scientific computing**
+  
   Python, R
 
 ### Research Interests
@@ -31,7 +44,7 @@ url = "/about/"
 
 - AI-driven impact assessment for resilient energy transitions
 
-- Coupling Earth system modeling with data-driven approaches to improve model accuracy and interpretability  
+- Coupling Earth system modeling with data-driven approaches to improve model accuracy and interpretability
 
 ### Curriculum Vitae
 
