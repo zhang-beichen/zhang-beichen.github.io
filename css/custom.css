@@ -1,7 +1,7 @@
 /* ===== Header layout ===== */
 /* Keep header/main/footer aligned (optional) */
-:root { --content-width: 720px; }
-header, main, footer { max-width: var(--content-width); margin: 0 auto; padding: 0 1rem; }
+:root { --content-width: 1000px; }
+header, main, footer { max-width: var(--content-width); margin: 0; }
 
 /* Title link (logo + title text in one row) */
 header h1 a {
@@ -58,8 +58,7 @@ header h1 a:hover {
 .site-subtitle {
   display: block;              /* new line below title */
   font-size: 1.5rem;
-  margin-top: 0.25rem;
-  margin-left: 48px;           /* indent so it aligns with text, not logo */
+  margin-top: 0.5rem;
   color: #555;
 }
 
