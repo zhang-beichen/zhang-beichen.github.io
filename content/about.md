@@ -1,16 +1,29 @@
 +++
 title = "About"
 url = "/about/"
-+++
-### What I am doing
 
++++
+### What I have been doing
+
+- **Modeling Data Scientist**
+  
+  (2025-Current)
+  
+  Aladdin Financial Engineering - Climate & Energy Analytics
+  
+  BlackRock
+  
 - **Postdoctoral Researcher**
+  
+  (2024-2025)
   
   Earth and Environmental Sciences Area
   
   Lawrence Berkeley National Laboratory
   
 - **PhD in Natural Resource Sciences (Climate Assessment and Impacts)**
+  
+  (2019-2024)
   
   Minor in Statistics
   
@@ -20,7 +33,7 @@ url = "/about/"
 
 ### Expertise
 
-- **Earth science**
+- **Earth sciences**
   
   Drought, Wildfire, Climatology, Hydrology
   
@@ -42,7 +55,7 @@ url = "/about/"
 
 - Causal inference modeling for understanding climate extremes and their impacts
 
-- AI-driven impact assessment for resilient energy transitions
+- AI-driven impact assessment for resilient energy transitions and climate adaptation
 
 - Coupling Earth system modeling with data-driven approaches to improve model accuracy and interpretability
 

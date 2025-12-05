@@ -1,4 +1,4 @@
-title = "Climate, Human, Data, & Modeling"
+title = "Better Climate, Better Earth"
 baseURL = "https://zhang-beichen.github.io/"
 # The theme will be loaded via the module import below
 paginate = 10
@@ -30,7 +30,7 @@ mainSections = ["posts"]   # adapt to your content folders
     weight = 2
 
   [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     url  = "/posts/"
     weight = 3
 
@@ -45,7 +45,7 @@ mainSections = ["posts"]   # adapt to your content folders
     weight = 5
 
 [params]
-  description = "Postdoc • Climate & AI"
+  description = "Scientist • Climate & Geography & AI"
   # Set site-wide math to true if most pages need it; otherwise enable per-page
   math = false
 
