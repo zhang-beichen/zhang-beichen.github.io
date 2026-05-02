@@ -1,4 +1,4 @@
-name: Build and Deploy Hugo (Modules)
+name: Build and Deploy Hugo Site
 on:
   push:
     branches:

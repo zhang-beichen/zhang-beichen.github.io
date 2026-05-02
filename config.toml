@@ -137,16 +137,6 @@ pagerSize = 6
     facebook = false
     email = false
 
-[build]
-  writeStats = true
-
-  [build.buildStats]
-    enabledFor = ["scss"]
-    disableClasses = false
-    disableIDs = false
-    disableTags = false
-    enable = true
-
 [languages]
   [languages.en]
     disabled = false
