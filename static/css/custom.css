@@ -1,76 +1,93 @@
-/* ===== Header layout ===== */
-/* Keep header/main/footer aligned (optional) */
-:root { --content-width: 1000px; }
-header, main, footer { max-width: var(--content-width); margin: 0; }
-
-/* Title link (logo + title text in one row) */
-header h1 a {
-  display: inline-flex;        /* side by side */
-  align-items: center;         /* vertical center */
-  gap: 0.5rem;                 /* space between logo and text */
-  line-height: 1.1;
-  color: #000 !important;
-  text-decoration: none !important;
-  font-size: 2rem;
-  font-weight: 900;
+:root {
+  --site-accent: #335c67;
+  --site-accent-soft: #7c9a92;
+  --site-sand: #f6f1e9;
 }
 
-/* Whole brand (logo + text) is one link */
-.site-header { margin: 0; }
-.site-brand {
-  display: inline-flex;             /* logo left, text right */
-  align-items: center;              /* vertically center logo to text block */
-  gap: 1rem;
-  text-decoration: none !important;
-  color: #000 !important;
+body.home {
+  background:
+    radial-gradient(circle at top left, rgba(124, 154, 146, 0.18), transparent 34%),
+    linear-gradient(180deg, #fbfaf7 0%, #ffffff 28%, #ffffff 100%);
 }
 
-header h1 a:hover {
-  color: #000;                 /* no hover color change */
-  text-decoration: none !important;
+.section,
+.section-experience {
+  scroll-margin-top: 96px;
 }
 
-/* Logo / portrait */
-.site-logo {
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;          /* circle */
-  object-fit: cover;           /* crop nicely */
-  display: block;              /* avoid baseline quirks */
-  flex: 0 0 48px;              /* don’t stretch */
+.header {
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.85);
+  border-bottom: 1px solid rgba(51, 92, 103, 0.08);
 }
 
-/* Title + subtitle stacked */
-.site-title-block {
-  display: flex;
-  flex-direction: column;       /* stack title + subtitle */
-  justify-content: center;      /* center them vertically */
+.header .navbar-brand {
+  letter-spacing: -0.02em;
 }
 
-/* Title line */
-.site-title {
-  font-size: 2rem;
-  font-weight: 900;
-  color: #000;
+.header .navbar-brand span:first-child {
+  color: var(--site-accent);
 }
 
-/* Subtitle row */
-.site-subtitle {
-  display: block;              /* new line below title */
-  font-size: 1.5rem;
-  margin-top: 0.5rem;
-  color: #555;
+.header .navbar-nav .nav-link {
+  font-weight: 600;
 }
 
-/* ===== Menu links ===== */
-header nav a {
-  color: #000 !important;
-  text-decoration: underline !important;
-  font-size: 1.125rem;
-  font-weight: 500;
+.showcase-section .display-1 {
+  max-width: 12ch;
 }
 
-header nav a:hover {
-  color: #111 !important;      /* subtle darker */
-  text-decoration: none !important;
+.showcase-section .display-5 {
+  max-width: 24ch;
+  color: #355070;
+}
+
+.showcase-section .profile-image img,
+.about__profile-picture img,
+.picture-works {
+  border-radius: 20px;
+  box-shadow: 0 18px 60px rgba(33, 55, 73, 0.14);
+}
+
+.showcase-section .btn.btn-primary,
+.btn.btn-primary {
+  background: var(--site-accent);
+  border-color: var(--site-accent);
+}
+
+.showcase-section .btn.btn-primary:hover,
+.btn.btn-primary:hover {
+  background: #27474f;
+  border-color: #27474f;
+}
+
+.btn.btn-frameless {
+  color: var(--site-accent);
+}
+
+.about-me p,
+.lead {
+  max-width: 66ch;
+}
+
+.clients {
+  display: none;
+}
+
+.client-works-container > .row:first-of-type {
+  margin-top: 0;
+}
+
+.section.section--border-bottom,
+.section-experience.section--border-bottom {
+  border-color: rgba(51, 92, 103, 0.1);
+}
+
+.experience__title,
+.experience__company {
+  color: #16324f;
+}
+
+.footer {
+  background: var(--site-sand);
 }

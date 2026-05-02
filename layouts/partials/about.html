@@ -1,0 +1,42 @@
+{{- $title := .Get "title" | default (i18n "about_title") -}}
+{{- $content := .Get "content" | default (i18n "about_content") | safeHTML -}}
+{{- $imgSrc := .Get "imgSrc" -}}
+{{- $imgWidth := .Get "imgWidth" -}}
+{{- $imgHeight := .Get "imgHeight" -}}
+{{- $imgScale := .Get "imgScale" | default 0.5 -}}
+{{- $vAlign := .Get "v_align" | default (.Get "text_align") | default "center" -}}
+{{- $hAlign := .Get "h_align" | default "left" -}}
+{{- $btnURL := .Get "button_url" -}}
+{{- $btnIcon := .Get "button_icon" -}}
+{{- $btnText := .Get "button_text" -}}
+
+{{ $sectionId := "about" }}
+{{ with .Get "sectionId" }}
+  {{ $sectionId = . }}
+{{ end }}
+{{ $headingLevel := "2" }}
+{{ with .Get "headingLevel" }}
+  {{ $headingLevel = . }}
+{{ end }}
+
+<section {{ if $sectionId }}id="{{ $sectionId }}"{{ end }} class="section rad-animation-group pb-0">
+  <div class="rad-fade-down">
+    <div class="row d-flex flex-column-reverse flex-md-row">
+      <div class="about__profile-picture col-12 col-md-6">
+        {{ partial "lazypicture" (dict "src" $imgSrc "width" $imgWidth "height" $imgHeight "scale" $imgScale "class" "image-left-overflow") }}
+      </div>
+      <div class="col-12 col-md-6{{ if eq $vAlign "center" }} my-auto{{ else if eq $vAlign "top" }} align-self-start{{ else if eq $vAlign "bottom" }} align-self-end{{ end }}{{ if eq $hAlign "center" }} text-center{{ else if eq $hAlign "right" }} text-end{{ end }}">
+        <h{{ $headingLevel }}>{{ $title }}</h{{ $headingLevel }}>
+        <div class="about-me content">
+          {{ $content }}
+        </div>
+        {{ if $btnText }}
+        <a href="{{ $btnURL | absURL }}" target="_blank" class="btn btn-primary mt-3">
+          {{ if $btnIcon }}<i class="{{ $btnIcon }}"></i>{{ end }}
+          {{ $btnText }}
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
