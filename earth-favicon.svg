@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Earth icon">
+  <circle cx="32" cy="32" r="30" fill="#d7efe7"/>
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#335c67" stroke-width="2"/>
+  <path d="M18 22c3-5 9-8 15-8 3 0 6 1 9 2-2 2-4 3-5 5-1 1-3 2-5 2-2 0-4 1-6 0-3-1-6 0-8-1z" fill="#4d8b72"/>
+  <path d="M40 18c5 1 9 5 11 10-2 1-4 2-6 2-2 0-3-1-4-3-1-3-1-6-1-9z" fill="#4d8b72"/>
+  <path d="M16 32c2-1 4-1 6 0 2 1 4 3 6 4 2 1 4 2 4 5 0 2-1 4-2 6-1 2-1 4 0 6-7 0-13-4-16-10 0-4 0-8 2-11z" fill="#4d8b72"/>
+  <path d="M35 34c2-1 5-2 8-1 2 1 4 2 6 4 1 1 2 3 1 5-2 5-7 8-12 8-2-1-4-2-5-4-1-2 0-4 1-6 1-2 1-4 1-6z" fill="#4d8b72"/>
+  <path d="M23 14c-4 2-7 5-9 9" fill="none" stroke="#335c67" stroke-linecap="round" stroke-width="2"/>
+  <path d="M11 31h42" fill="none" stroke="#335c67" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M32 4c-5 6-8 14-8 28s3 22 8 28" fill="none" stroke="#335c67" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M32 4c5 6 8 14 8 28s-3 22-8 28" fill="none" stroke="#335c67" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M14 20c5 4 11 6 18 6s13-2 18-6" fill="none" stroke="#335c67" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M14 44c5-4 11-6 18-6s13 2 18 6" fill="none" stroke="#335c67" stroke-opacity=".45" stroke-width="2"/>
+</svg>
