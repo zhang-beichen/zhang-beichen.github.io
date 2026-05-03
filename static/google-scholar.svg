@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Google Scholar icon">
+  <path d="M32 8 8 22l24 14 24-14L32 8Z" fill="#4285F4"/>
+  <path d="M19 31v10c0 6 7 11 13 11s13-5 13-11V31L32 39 19 31Z" fill="#8AB4F8"/>
+  <path d="M56 22v15" fill="none" stroke="#1A73E8" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="56" cy="40" r="4" fill="#1A73E8"/>
+</svg>

@@ -3,12 +3,18 @@
   {{ $sectionId = . }}
 {{ end }}
 
-{{- $showcaseTitle := .Get "title" | default (i18n "showcase_title") -}}
+{{- $showcaseTitle := .Get "title" | default (i18n "showcase_title") | safeHTML -}}
 {{- $showcaseSubtitle := .Get "subtitle" | default (i18n "showcase_subtitle") -}}
 {{- $showcaseDescription := .Get "description" | default (i18n "showcase_description") | safeHTML -}}
 {{- $buttonURL := .Get "button_url" -}}
 {{- $buttonIcon := .Get "button_icon" -}}
 {{- $buttonText := .Get "button_text" -}}
+{{- $button2URL := .Get "button2_url" -}}
+{{- $button2Icon := .Get "button2_icon" -}}
+{{- $button2Text := .Get "button2_text" -}}
+{{- $button3URL := .Get "button3_url" -}}
+{{- $button3Icon := .Get "button3_icon" -}}
+{{- $button3Text := .Get "button3_text" -}}
 {{- $imgSrc := .Get "imgSrc" -}}
 {{- $imgWidth := .Get "imgWidth" -}}
 {{- $imgHeight := .Get "imgHeight" -}}
@@ -23,12 +29,38 @@
         <h1 class="display-1">{{ $showcaseTitle }}</h1>
         <h2 class="display-5"><span>{{ $showcaseSubtitle | safeHTML }}</span></h2>
         <div class="lead">{{ $showcaseDescription }}</div>
-        {{ if $buttonText }}
-        <a href="{{ $buttonURL }}" class="btn btn-primary">
-          {{ if $buttonIcon }}<i class="{{ $buttonIcon }}"></i>{{ end }}
-          {{ $buttonText }}
-        </a>
-        {{ end }}
+        <div class="showcase-actions">
+          {{ if $buttonText }}
+          <a href="{{ $buttonURL }}" class="btn btn-primary">
+            {{ if eq $buttonIcon "custom-google-scholar" }}
+              <img src="{{ "/google-scholar.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if $buttonIcon }}
+              <i class="{{ $buttonIcon }}"></i>
+            {{ end }}
+            {{ $buttonText }}
+          </a>
+          {{ end }}
+          {{ if $button2Text }}
+          <a href="{{ $button2URL }}" class="btn btn-frameless showcase-actions__secondary">
+            {{ if eq $button2Icon "custom-google-scholar" }}
+              <img src="{{ "/google-scholar.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if $button2Icon }}
+              <i class="{{ $button2Icon }}"></i>
+            {{ end }}
+            {{ $button2Text }}
+          </a>
+          {{ end }}
+          {{ if $button3Text }}
+          <a href="{{ $button3URL }}" class="btn btn-frameless showcase-actions__secondary">
+            {{ if eq $button3Icon "custom-google-scholar" }}
+              <img src="{{ "/google-scholar.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if $button3Icon }}
+              <i class="{{ $button3Icon }}"></i>
+            {{ end }}
+            {{ $button3Text }}
+          </a>
+          {{ end }}
+        </div>
       </div>
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image{{ if $imgShape }} profile-image--{{ $imgShape }}{{ end }}">
         {{ partial "lazypicture" (dict "src" $imgSrc "width" $imgWidth "height" $imgHeight "scale" $imgScale) }}

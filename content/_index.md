@@ -5,24 +5,28 @@ draft = false
 +++
 
 {{< showcase-section
-    title="Beichen Zhang"
-    subtitle="Modeling climate, energy, and environmental impacts with <strong>AI</strong> and geospatial data"
-    description="<p>I am a modeling data scientist at BlackRock, and previously a postdoctoral researcher at Lawrence Berkeley National Laboratory. My work sits at the intersection of climate risk, energy transitions, Earth system science, and applied machine learning.</p><p>This site brings together my CV, selected projects, conference work, and writing on modeling, climate analytics, and scientific computing.</p>"
-    button_text="View CV"
-    button_url="/cv"
-    button_icon="icon-user"
-    imgSrc="images/projects/neurips-2025.png"
-    imgScale="0.42"
+    title="Hey, I’m <strong>Beichen</strong>"
+    subtitle="I am an applied climatologist and machine learning engineer."
+    description="<p>I am a modeling data scientist at **BlackRock** and was previously a postdoctoral researcher at **Lawrence Berkeley National Laboratory**.</p><p>I develop models to quantify, analyze, and predict climate extremes, natural hazards, and the risks they pose to society and the economy. My expertise and research interests sit at the intersection of climate science, natural resources, resilient energy systems, geospatial technologies, and applied machine learning and artificial intelligence.</p><p>This site brings together my experience, selected projects and publications, public presentations, and writing on modeling, climate analytics, and scientific computing.</p><p>If you’d like to know more, visit my GitHub or connect with me on LinkedIn.</p>"
+    button_text="GitHub"
+    button_url="https://github.com/zhang-beichen"
+    button_icon="icon-github"
+    button2_text="LinkedIn"
+    button2_url="https://www.linkedin.com/in/beichen-zhang-90a33b1b7/"
+    button2_icon="icon-linkedin"
+    button3_text="Google Scholar"
+    button3_url="https://scholar.google.com/citations?user=oTZxkJgAAAAJ&hl=en"
+    button3_icon="custom-google-scholar"
+    imgSrc="images/photos/profile-hero.png"
+    imgScale="0.48"
+    imgShape="rounded"
  >}}{{< /showcase-section >}}
 
 {{< about-section
     title="About"
-    content="<p class='lead'>I build quantitative and data-driven approaches for understanding climate extremes, environmental impacts, and resilient energy systems. My recent work spans drought impact assessment, causal and interpretable modeling, text-informed environmental analytics, and coupled agent-based and life cycle models for energy transition planning.</p><p>I care about turning complex scientific questions into models that are both rigorous and useful for decisions. That means combining domain knowledge from Earth and environmental science with statistics, machine learning, remote sensing, and reproducible computing.</p>"
-    button_icon="icon-doc-text"
-    button_text="Download CV"
-    button_url="/docs/Academic_CV_BZ.pdf"
-    imgSrc="images/projects/drought-ai.png"
-    imgScale="0.34"
+    content="<p class='lead'>I am an applied climatologist focused on analyzing climate data and building physical and data-driven models to address practical environmental and societal problems.</p><p>My master’s and Ph.D. work focused on expanding the scope and capabilities of drought impact assessment. I used statistical methods, AI, remote sensing, and social sensing to support more comprehensive drought monitoring and more informed response actions.</p><p>During my postdoctoral research at Lawrence Berkeley National Laboratory, I developed an integrated conceptual framework and a coupled agent-based and life cycle assessment model to analyze trade-offs and synergies between natural resources and low-carbon energy in energy transition planning.</p>"
+    imgSrc="images/photos/mt-rainier-web.png"
+    imgScale="0.38"
     v_align="center"
     h_align="left"
  >}}
@@ -30,20 +34,13 @@ draft = false
 {{< experience-section
     title="Experience"
     intro_title="Current Focus"
-    intro_description="I am currently focused on climate and energy analytics, with an emphasis on impact modeling, resilient transition pathways, and environmental decision support. Across industry and research roles, my work has combined scientific interpretation with practical modeling workflows."
+    intro_description="I am currently a modeling data scientist on the Energy and Climate Analytics team at BlackRock. I care about applying scientific analysis to climate and geospatial data in ways that are both rigorous and useful for financial decision-making. That means combining domain knowledge from Earth and climate science with statistics, machine learning, remote sensing, and cloud computing. Across industry and research roles, my work has consistently brought together scientific interpretation and professional modeling workflows."
     button1_text="Download CV"
     button1_url="/docs/Academic_CV_BZ.pdf"
     button1_icon="icon-download"
     button2_text="View full experience"
     button2_url="/experience"
     button2_icon="icon-briefcase"
-    button3_text="Browse writing"
-    button3_url="/blog"
-    button3_icon="icon-edit"
->}}
-
-{{< client-and-work-section
-    title="Selected Projects & Talks"
 >}}
 
 {{< text-section title="Writing" centered="true" >}}
