@@ -158,7 +158,7 @@ pagerSize = 6
 
       [[languages.en.menus.header]]
         name = "Experience"
-        URL = "#experience-single"
+        URL = "/experience"
         weight = 3
 
       [[languages.en.menus.header]]
