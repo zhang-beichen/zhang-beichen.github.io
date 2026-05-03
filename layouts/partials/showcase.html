@@ -32,7 +32,11 @@
         <div class="showcase-actions">
           {{ if $buttonText }}
           <a href="{{ $buttonURL }}" class="btn btn-primary">
-            {{ if eq $buttonIcon "custom-google-scholar" }}
+            {{ if eq $buttonIcon "custom-github" }}
+              <img src="{{ "/github.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if eq $buttonIcon "custom-linkedin" }}
+              <img src="{{ "/linkedin.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if eq $buttonIcon "custom-google-scholar" }}
               <img src="{{ "/google-scholar.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
             {{ else if $buttonIcon }}
               <i class="{{ $buttonIcon }}"></i>
@@ -42,7 +46,11 @@
           {{ end }}
           {{ if $button2Text }}
           <a href="{{ $button2URL }}" class="btn btn-frameless showcase-actions__secondary">
-            {{ if eq $button2Icon "custom-google-scholar" }}
+            {{ if eq $button2Icon "custom-github" }}
+              <img src="{{ "/github.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if eq $button2Icon "custom-linkedin" }}
+              <img src="{{ "/linkedin.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if eq $button2Icon "custom-google-scholar" }}
               <img src="{{ "/google-scholar.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
             {{ else if $button2Icon }}
               <i class="{{ $button2Icon }}"></i>
@@ -52,7 +60,11 @@
           {{ end }}
           {{ if $button3Text }}
           <a href="{{ $button3URL }}" class="btn btn-frameless showcase-actions__secondary">
-            {{ if eq $button3Icon "custom-google-scholar" }}
+            {{ if eq $button3Icon "custom-github" }}
+              <img src="{{ "/github.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if eq $button3Icon "custom-linkedin" }}
+              <img src="{{ "/linkedin.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
+            {{ else if eq $button3Icon "custom-google-scholar" }}
               <img src="{{ "/google-scholar.svg" | relURL }}" alt="" class="button-icon-image" aria-hidden="true" />
             {{ else if $button3Icon }}
               <i class="{{ $button3Icon }}"></i>

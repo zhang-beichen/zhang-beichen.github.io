@@ -203,47 +203,6 @@ body.home div.experience {
   max-width: 58ch;
 }
 
-.section-education h2 {
-  margin-bottom: 1.25rem;
-}
-
-.education-home-list {
-  display: grid;
-  gap: 1rem;
-}
-
-.education-home-item {
-  display: grid;
-  grid-template-columns: minmax(120px, 150px) 1fr;
-  gap: 1rem 1.5rem;
-  padding: 1rem 1.1rem;
-  border: 1px solid rgba(51, 92, 103, 0.1);
-  border-radius: 10px;
-  background: rgba(255, 255, 255, 0.72);
-  box-shadow: 0 12px 32px rgba(33, 55, 73, 0.05);
-}
-
-.education-home-item__date {
-  color: var(--site-accent);
-  font-weight: 700;
-  letter-spacing: 0.01em;
-}
-
-.education-home-item__body > :last-child {
-  margin-bottom: 0;
-}
-
-.education-home-item__school {
-  margin-bottom: 0.25rem;
-  color: #16324f;
-  font-size: 1.1rem;
-}
-
-.education-home-item__degree,
-.education-home-item__detail {
-  margin-bottom: 0.2rem;
-}
-
 body.home .text-section {
   padding-top: 1.25rem;
 }
@@ -254,11 +213,4 @@ body.home .text-section .container {
 
 .footer {
   background: var(--site-sand);
-}
-
-@media (max-width: 767.98px) {
-  .education-home-item {
-    grid-template-columns: 1fr;
-    gap: 0.4rem;
-  }
 }

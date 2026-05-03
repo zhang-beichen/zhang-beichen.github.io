@@ -10,10 +10,10 @@ draft = false
     description="<p>I am a modeling data scientist at <strong>BlackRock</strong> and was previously a postdoctoral researcher at <strong>Lawrence Berkeley National Laboratory</strong>.</p><p>I develop models to quantify, analyze, and predict climate extremes, natural hazards, and the risks they pose to society and the economy. My expertise and research interests sit at the intersection of climate science, natural resources, resilient energy systems, geospatial technologies, and applied machine learning and artificial intelligence.</p><p>This site brings together my experience, selected projects and publications, public presentations, and writing on modeling, climate analytics, and scientific computing.</p><p>If you’d like to know more, visit my GitHub or connect with me on LinkedIn.</p>"
     button_text="GitHub"
     button_url="https://github.com/zhang-beichen"
-    button_icon="icon-square-github"
+    button_icon="custom-github"
     button2_text="LinkedIn"
     button2_url="https://www.linkedin.com/in/beichen-zhang-90a33b1b7/"
-    button2_icon="icon-linkedin"
+    button2_icon="custom-linkedin"
     button3_text="Google Scholar"
     button3_url="https://scholar.google.com/citations?user=oTZxkJgAAAAJ&hl=en"
     button3_icon="custom-google-scholar"
@@ -46,32 +46,7 @@ draft = false
     button2_icon="icon-briefcase"
 >}}
 
-{{< education-section title="Education" >}}
-<article class="education-home-item">
-  <div class="education-home-item__date">2019-2024</div>
-  <div class="education-home-item__body">
-    <h3 class="education-home-item__school">University of Nebraska-Lincoln</h3>
-    <p class="education-home-item__degree">PhD in Natural Resource Sciences - Climate Assessment and Impacts</p>
-    <p class="education-home-item__detail">Minor in Statistics</p>
-  </div>
-</article>
-
-<article class="education-home-item">
-  <div class="education-home-item__date">2017-2019</div>
-  <div class="education-home-item__body">
-    <h3 class="education-home-item__school">University of Nebraska-Lincoln</h3>
-    <p class="education-home-item__degree">MS in Natural Resource Sciences - Climate Assessment and Impacts</p>
-  </div>
-</article>
-
-<article class="education-home-item">
-  <div class="education-home-item__date">2013-2017</div>
-  <div class="education-home-item__body">
-    <h3 class="education-home-item__school">Northwest A&amp;F University</h3>
-    <p class="education-home-item__degree">BS in Geographic Information Science</p>
-  </div>
-</article>
-{{< /education-section >}}
+{{< education-list title="Education" >}}
 
 {{< text-section title="Writing" centered="true" >}}
 
